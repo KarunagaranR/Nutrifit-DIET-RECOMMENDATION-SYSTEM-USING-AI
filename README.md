@@ -186,7 +186,7 @@ You can contact me via:
 [GitHub-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/KarunagaranR
 [LinkedIn-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[LinkedIn-url]:  https://www.linkedin.com/in/khiet-to/
+[LinkedIn-url]:  https://www.linkedin.com/in/karunagaran-r-b25a94244/
 [Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
 [Facebook-url]: https://www.facebook.com/profile.php?id=100074460311320&mibextid=ZbWKwL
